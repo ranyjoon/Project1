@@ -1,0 +1,142 @@
+<지도데이터>
+
+- korea(folder)
+	설명: 대한민국 최신 행정구역 폴더
+	출처: GIS DEVELOPER
+	주소: http://www.gisdeveloper.co.kr/?p=2332
+
+
+<인구데이터>
+
+- 인구밀도.csv
+	설명: 서울시 인구밀도 (구별) 통계
+	출처: 서울 열린데이터광장
+	주소: http://data.seoul.go.kr/dataList/10790/S/2/datasetView.do
+
+- 어린이인구.csv
+	설명: 주민등록인구통계<연령별인구현황>
+	출처: 행정안전부
+	주소: https://jumin.mois.go.kr/ageStatMonth.do
+
+
+<도로데이터>
+
+- 도로현황.xlsx
+	설명: 서울시 도로 현황 통계
+	출처: 서울 열린데이터광장
+	주소: http://data.seoul.go.kr/dataList/258/S/2/datasetView.do
+
+
+<범죄데이터>
+
+- 범죄.xlsx
+	설명: 서울시 5대 범죄 발생현황 통계
+	출처: 서울 열린데이터광장
+	주소: http://data.seoul.go.kr/dataList/316/S/2/datasetView.do
+
+- CCTV.xlsx
+	설명: 서울시 (안심이) CCTV 설치 현황
+	출처: 서울 열린데이터광장
+	주소: http://data.seoul.go.kr/dataList/OA-20923/S/1/datasetView.do
+
+- CCTV설치운영현황.csv
+	설명: 서울시 자치구 년도별 CCTV 설치 현황
+	출처: 서울 열린데이터광장
+	주소: http://data.seoul.go.kr/dataList/OA-2734/F/1/datasetView.do
+
+- 유흥주점.xlsx
+	설명: 서울시 유흥주점영업 인허가 정보
+	출처: 서울 열린데이터광장
+	주소: http://data.seoul.go.kr/dataList/OA-16090/S/1/datasetView.do
+
+- 치안센터.xlsx 
+	설명: 서울시 시내주요기관 (경찰·소방관서) 통계
+	출처: 서울 열린데이터 광장
+	주소: http://data.seoul.go.kr/dataList/224/S/2/datasetView.do
+
+- 치안센터_위치.xlsx
+	설명: 2022경찰서 및 지구대,파출소,명칭,주소
+	출처: 서울경찰청
+	주소: https://www.smpa.go.kr/user/action/declareBoardList.do?boardInfoNo=1007&menuId=
+
+
+<교통데이터>
+
+- 교통사고.xlsx
+	설명: 서울시 교통사고 현황 (사고유형별) 통계
+	출처: 서울 열린데이터 광장
+	주소: http://data.seoul.go.kr/dataList/322/S/2/datasetView.do
+
+- 어린이교통사고건수.csv
+	설명: 21년 어린이 교통사고건수(시도/시/군/구)
+	출처: 통계청
+	주소: https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL202107&conn_path=I2
+
+- 자동차등록.xlsx
+	설명: 서울시 자동차등록 (월별/구별) 통계
+	출처: 서울 열린데이터 광장
+	주소: http://data.seoul.go.kr/dataList/255/S/2/datasetView.do
+
+- 자동차등록현황.csv
+	설명: 서울시 행정동별 연료별 자동차 등록현황
+	출처: 공공데이터포털
+	주소: http://data.seoul.go.kr/dataList/OA-21236/F/1/datasetView.do
+
+- 단속카메라.xlsx
+	설명: 전국무인교통단속카메라표준데이터
+	출처: 공공 데이터 포털
+	주소: https://www.data.go.kr/data/15028200/standard.do
+
+- 어린이보호구역.xlsx
+	설명: 어린이보호구역 위치도
+	출처: 서울 열린데이터 광장
+	주소: http://data.seoul.go.kr/dataList/OA-20448/S/1/datasetView.do
+
+
+<주변시설 데이터>
+
+- 지역아동센터.csv
+	설명: 서울시 지역아동센터 시설현황정보
+	출처: 서울 열린데이터 광장
+	주소: http://data.seoul.go.kr/dataList/OA-20967/S/1/datasetView.do
+
+- 열린육아방.csv
+	설명: 서울시 열린육아방 시설현황정보
+	출처: 서울 열린데이터 광장
+	주소: http://data.seoul.go.kr/dataList/OA-20966/S/1/datasetView.do
+
+- 우리동네키움센터.csv
+	설명: 서울시 우리동네키움센터 시설현황정보
+	출처: 서울 열린데이터 광장
+	주소: http://data.seoul.go.kr/dataList/OA-20965/S/1/datasetView.do
+
+- 병의원.csv
+	설명: 서울특별시_병의원 위치 정보
+	출처: 서울 열린데이터 광장
+	주소: http://data.seoul.go.kr/dataList/OA-20337/S/1/datasetView.do
+
+
+<참고자료>
+
+- 아동종합실태조사
+	통계청
+	정책영역 - 향후개선이나 보완이 필요한 아동정책 영역 <아동종합실태조사>, 보건복지부
+
+- 출산율, 지역별 인구
+	통계청/e나라지표
+	- 출산율 - 2021년 출산통계, 국가승인통계 제10103호 출생통계
+	- 지역별인구 - 장래인구추계 시도편 <지적통계>,국토교통부
+
+- 아동인구현황
+	e나라지표
+	주민등록인구통계
+
+
+<만든데이터>
+
+(CCTV설치운영현황.csv →) CCTV_위치.csv
+(단속카메라.xlsx →) 단속카메라_위치.csv
+(어린이보호구역.xlsx →) 어린이보호구역_위치.csv
+([열린육아방.csv,우리동네키움센터.csv,지역아동센터.csv] →)돌봄센터.csv
+
+

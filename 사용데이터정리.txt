@@ -1,0 +1,34 @@
+<환경지수_final / 각 항목별 데이터_군집화_지도시각화>
+korea 폴더
+CCTV_위치.csv (원본: CCTV설치운영현황.csv)
+유흥주점.xlsx
+단속카메라_위치.csv (원본: 단속카메라.xlsx)
+어린이보호구역_위치.csv (원본: 어린이보호구역.xlsx)
+병의원.csv
+열린육아방.csv, 우리동네키움센터.csv, 지역아동센터.csv (→ 돌봄센터.csv)
+
+
+<상관계수_교통>
+도로현황.xlsx
+인구밀도.csv
+어린이인구.csv
+어린이교통사고건수.csv
+단속카메라.xlsx
+어린이보호구역.xlsx
+
+<상관계수_범죄>
+인구밀도.csv
+범죄.xlsx
+CCTV설치운영현황.csv
+유흥주점.xlsx
+
+<상관계수_시설>
+어린이인구.csv
+병의원.csv
+돌봄센터.csv
+
+<어린이 인구수_시각화>
+seoul_geo_simple.json
+어린이인구.csv
+Population_SIG.csv
+data_draw_korea.csv
